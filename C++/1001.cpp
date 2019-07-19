@@ -8,7 +8,6 @@ int main() {
     
     cin >> A >> B;
     
-    
     cout << "X = " << A + B << endl;
  
     return 0;
